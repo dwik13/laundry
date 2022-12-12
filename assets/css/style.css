@@ -1,0 +1,124 @@
+.body{
+    background-color: rgb(206 232 234);
+    font-family: "Nunito";
+}
+.bg-navbar{
+    background-color:#618d9d;
+}
+
+.image-slider{
+    height: 500px;
+}
+
+.btn-slider{
+    background-color: #71b7cf;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    margin-top: 20%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.bg-caption{
+    background-color: black;
+    opacity: 0.7;
+    border-radius: 20px;
+}
+
+.set-image{
+    width: 350px;
+    height: 250px;
+}
+
+h3{
+    color: #558595;
+    font-weight: bold;
+}
+
+.th-warna{
+    background-color:#618d9d;
+}
+
+.footer{
+    height: 400px;
+    color: white;
+    background-color: black;
+}
+/* .contact{
+    position: absolute;
+} */
+.copyright{
+    padding-top: 25px;
+}
+
+.fotc{
+    left: 90px;
+    top: 0px;
+    margin-left: 400px;
+}
+
+.fotd{
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    margin: auto;
+}
+.fotf{
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    margin-left: 900px;
+
+}
+
+
+/* hover about */
+.kotak1:hover{
+    transform: scale(1.2);
+    transition: 1s;
+    
+}
+
+.position{
+    margin: auto;
+    position: relative;
+    /* border: 1px solid green; */
+}
+
+.group{
+    width: 1150px;
+    height: 260px;
+}
+.group913{
+    left: 0px;
+    top: 0px;
+    margin: auto;
+
+}
+.group912{
+    left: 100px;
+    top: 0px;
+    position: absolute;
+    margin: auto;
+}
+
+.img-group{
+    margin-left: 180px;
+}
+.group915{
+    left: 0px;
+    top: 0px;
+    margin: auto;
+
+}
+.group914{
+    left: 100px;
+    top: 0px;
+    position: absolute;
+    margin: auto;
+}
+
+
+/* login */
+
